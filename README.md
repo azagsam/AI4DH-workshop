@@ -1,0 +1,1 @@
+A hands-on workshop providing a practical introduction to large language models.
